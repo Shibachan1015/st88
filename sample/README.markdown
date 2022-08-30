@@ -1,0 +1,17 @@
+# Sample
+
+## Usage
+
+## Installation
+
+## Author
+
+* Shibachan1015
+
+## Copyright
+
+Copyright (c) 2022 Shibachan1015
+
+## License
+
+Licensed under the MIT License.
